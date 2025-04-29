@@ -6,7 +6,7 @@ canvas {
 p {
   margin: 0 0;
   position: absolute;
-  font: 30px Verdana;
+  font: 10px Verdana;
   color: #e72222;
   height: 25px;
   top: calc(100vh - 30px);
